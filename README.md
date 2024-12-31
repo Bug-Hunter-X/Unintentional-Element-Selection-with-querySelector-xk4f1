@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in HTML using querySelector. The script intends to hide a specific div, but due to the lack of a more precise selector, it ends up hiding the first div element on the page, which is not the intended behavior. The solution showcases how to use a more precise selector to target the intended div.
